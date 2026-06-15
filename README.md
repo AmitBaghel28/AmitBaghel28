@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Amit Kumar Baghel
 
-<!--
-**AmitBaghel28/AmitBaghel28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer
 
-Here are some ideas to get you started:
+B.Tech CSE 2025
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+Frontend:
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+
+Backend:
+- Node.js
+- Express.js
+
+Database:
+- MongoDB
+
+Tools:
+- Git
+- GitHub
+- VS Code
+
+## Projects
+
+### Ecommerce Website
+React + Node.js + MongoDB
+
+### Exam Portal
+Full Stack Web Application
+
+### Weather App
+API Based Application
+
+### Portfolio Website
+Responsive Personal Portfolio
+
+## Currently Learning
+- Advanced React
+- Backend Development
+- Data Structures & Algorithms
+
+## Contact
+LinkedIn:linkedin.com/in/amit-baghel-5b7b33270
+Email: amitkumarbaghel8273@gmail.com
