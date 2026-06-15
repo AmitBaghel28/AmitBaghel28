@@ -91,8 +91,6 @@ Advanced React.js · Data Structures & Algorithms · System Design · Backend Ar
 
 ---
 
-## 📊 GitHub Stats
-
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmitBaghel28&show_icons=true&theme=default&hide_border=true)
