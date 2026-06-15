@@ -1,124 +1,109 @@
-Hi 👋, I'm Amit Kumar Baghel
+# Hi, I'm Amit Kumar Baghel 👋
 
-Full Stack Developer | B.Tech CSE 2025
+**Full Stack Developer (MERN)** | B.Tech CSE 2025, GLA University
 
-Passionate Full Stack Developer focused on building modern, scalable, and responsive web applications using the MERN Stack. Currently improving problem-solving skills through Data Structures & Algorithms and real-world project development.
-
----
-
-🚀 Tech Stack
-
-Frontend
-
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-
-Backend
-
-- Node.js
-- Express.js
-
-Database
-
-- MongoDB
-- MySQL
-
-Tools & Technologies
-
-- Git
-- GitHub
-- VS Code
-- REST APIs
+Building scalable web applications with React, Node.js, and MongoDB. Currently strengthening DSA and system design fundamentals while applying for Full Stack Developer / SDE roles.
 
 ---
 
-💼 Featured Projects
+## 🚀 Tech Stack
 
-📝 Online Exam Portal
 
-Tech: React.js, Node.js, Express.js, MongoDB
 
-- Developed a full-stack online examination platform using the MERN Stack.
-- Implemented user authentication and secure login functionality.
-- Built timer-based examinations with automatic submission.
-- Generated instant results and score calculations.
-- Designed responsive and user-friendly interfaces.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-🔗 Live Demo: https://online-exam-portal-seven-rho.vercel.app/login
 
-🎓 IIM Sirmaur Online MBA Landing Page
 
-Tech: HTML5, CSS3, JavaScript
 
-- Developed a modern and responsive educational landing page.
-- Optimized for mobile, tablet, and desktop devices.
-- Created engaging UI sections and call-to-action components.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-🔗 Live Demo: https://polite-treacle-25a5ac.netlify.app/
 
-🛒 Ecommerce Website
 
-Tech: React.js, Node.js, Express.js, MongoDB
 
-- Built a full-stack e-commerce application.
-- Implemented product listing and cart functionality.
-- Developed responsive user interfaces.
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-🌦 Weather App
 
-Tech: React.js, JavaScript, Weather API
 
-- Displays real-time weather information using API integration.
-- Responsive and easy-to-use interface.
 
-🌐 Portfolio Website
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-Tech: HTML, CSS, JavaScript
 
-- Personal portfolio showcasing skills and projects.
-- Fully responsive design.
+
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
 
 ---
 
-📚 Currently Learning
+## 💼 Projects
 
-- Advanced React.js
-- Backend Development
-- Data Structures & Algorithms
-- System Design Fundamentals
+### 📝 Online Exam Portal
+**Tech:** React.js, Node.js, Express.js, MongoDB
+- Full-stack examination platform with JWT-based authentication
+- Timer-based tests with auto-submission and instant scoring
+- Responsive UI across devices
 
----
+🔗 [Live Demo](https://online-exam-portal-seven-rho.vercel.app/login) · [Source Code](#)
 
-🎯 Career Objective
+### 🎓 IIM Sirmaur — Online MBA Landing Page
+**Tech:** HTML5, CSS3, JavaScript
+- Responsive educational landing page optimized for mobile, tablet, and desktop
+- Component-based section structure with CTA elements
 
-Seeking opportunities as a Frontend Developer, Full Stack Developer, or Software Engineer where I can contribute to impactful projects while continuously learning and growing.
+🔗 [Live Demo](https://polite-treacle-25a5ac.netlify.app/) · [Source Code](#)
 
----
+### 🌦 Weather App
+**Tech:** React.js, Weather API
+- Real-time weather data via API integration
+- Clean, responsive interface
 
-📫 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/amit-baghel-5b7b33270
-- Email: amitkumarbaghel8273@gmail.com
-
----
-
-📊 GitHub Stats
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=AmitBaghel28&show_icons=true)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=AmitBaghel28&layout=compact)
+🔗 [Live Demo](#) · [Source Code](#)
 
 ---
 
-🐍 Contribution Snake
+## 📚 Currently Learning
+Advanced React.js · Data Structures & Algorithms · System Design · Backend Architecture
 
-"snake" (https://raw.githubusercontent.com/AmitBaghel28/AmitBaghel28/output/dist/github-contribution-grid-snake.svg)
-## Contact
-LinkedIn:linkedin.com/in/amit-baghel-5b7b33270
-Email: amitkumarbaghel8273@gmail.com
-## Contribution Snake
+---
 
-![snake](https://raw.githubusercontent.com/AmitBaghel28/AmitBaghel28/output/dist/github-contribution-grid-snake.svg)
+## 📫 Connect
+[
 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/amit-baghel-5b7b33270)
+[
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:amitkumarbaghel8273@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmitBaghel28&show_icons=true&theme=default&hide_border=true)
+
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitBaghel28&layout=compact&hide_border=true)
+
+
+
+
+
+![Snake animation](https://raw.githubusercontent.com/AmitBaghel28/AmitBaghel28/output/dist/github-contribution-grid-snake.svg)
