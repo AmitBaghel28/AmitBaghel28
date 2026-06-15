@@ -46,3 +46,6 @@ Responsive Personal Portfolio
 ## Contact
 LinkedIn:linkedin.com/in/amit-baghel-5b7b33270
 Email: amitkumarbaghel8273@gmail.com
+## Contribution Snake
+
+![Snake animation](https://github.com/AmitBaghel28/AmitBaghel28/blob/output/github-contribution-grid-snake.svg)
